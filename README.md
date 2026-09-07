@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own project<br>👯 I’m taking training of java full stack in banglore<br>🤝 I’m looking for help with<br>🌱 I’m currently learning full stack <br>💬 Ask me about <br>
+ 👨‍💻  I'm a B.Tech graduate currently undergoing Full-Stack development training in Bengaluru.<br> 🚀 I'm currently working on building full-stack web applications and projects.<br>🧠 I'm currently learning advanced backend concepts, databases, and modern frameworks.<br> 🤝 I'm looking for help with open-source contributions and software engineering opportunities. <br📫 How to reach me: amankumarsingh0008@gmail.com <br>
 
 
 ## 🌐 Socials:
