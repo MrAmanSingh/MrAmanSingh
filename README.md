@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍💻  I'm a B.Tech graduate currently undergoing Full-Stack development training in Bengaluru.<br> 🚀 I'm currently working on building full-stack web applications and projects.<br>🧠 I'm currently learning advanced backend concepts, databases, and modern frameworks.<br> 🤝 I'm looking for help with open-source contributions and software engineering opportunities. <br📫 How to reach me: amankumarsingh0008@gmail.com <br>
+ 👨‍💻  I'm a B.Tech graduate currently undergoing Full-Stack development training in Bengaluru.<br> 🚀 I'm currently working on building full-stack web applications and projects.<br>🧠 I'm currently learning advanced backend concepts, databases, and modern frameworks.<br> 🤝 I'm looking for help with open-source contributions and software engineering opportunities. <br>📫 How to reach me: amankumarsingh0008@gmail.com <br>
 
 
 ## 🌐 Socials:
